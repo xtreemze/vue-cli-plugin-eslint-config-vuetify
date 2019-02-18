@@ -4,7 +4,7 @@ module.exports = api => {
       'eslint-config-vuetify-pascal': '*'
     },
     eslintConfig: {
-      extends: 'vuetify'
+      extends: 'vuetify-pascal'
     }
   })
 }
