@@ -1,8 +1,8 @@
 {
-  "name": "vue-cli-plugin-eslint-config-vuetify",
-  "version": "0.0.3",
-  "description": "Vue CLI Plugin for eslint-config-vuetify",
+  "name": "vue-cli-plugin-eslint-config-vuetify-pascal",
+  "version": "0.0.1",
+  "description": "Vue CLI Plugin for eslint-config-vuetify-pascal with opinionated PascalCase rules",
   "main": "index.js",
-  "author": "John Leider <john@vuetifyjs.com>",
+  "author": "Carlos Velasco <carlos@2activedesign.com>",
   "license": "MIT"
 }

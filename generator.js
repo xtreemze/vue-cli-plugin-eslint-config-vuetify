@@ -1,7 +1,7 @@
 module.exports = api => {
   api.extendPackage({
     devDependencies: {
-      'eslint-config-vuetify': '*'
+      'eslint-config-vuetify-pascal': '*'
     },
     eslintConfig: {
       extends: 'vuetify'
